@@ -12,3 +12,6 @@ $ git add .
 $ git commit -m "注释"
 3. git push 上传，可能会让你输入github账号和密码按提示输入即可
 $ git remote add origin https://github.com/yuanzhihao812/YYY.git
+
+
+add by github-lewis
